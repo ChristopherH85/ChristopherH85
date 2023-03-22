@@ -23,6 +23,7 @@
 <h2> 🔜 Coming Soon:</h2>
 
 - Active Directory Home Lab
+- AWS Certification(s)
 
 <h2> 🤳 Connect with me:</h2>
 
