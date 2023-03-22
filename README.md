@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Certifcations:</h2>
 
-- Google IT Support 
-- CompTia A+
-- CompTia Security+
+- Google IT Support Certification
+- CompTia A+ (est April 2023)
+- Google IT Automation with Python Professional Certificate (est April 2023)
+- Currently in Security+ bootcamp with estimated completion 2 July 2023
 
 
 <h2> 🤳 Connect with me:</h2>
