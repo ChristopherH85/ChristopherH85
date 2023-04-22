@@ -1,29 +1,30 @@
 <h1>Hi, I'm Chris! <br/><a href="https://www.linkedin.com/in/chrisholt85/">Aspiring Cybersecurity Professional</a></h1>
 
 <h2>⚡ Fun fact:</h2>
-- I'm a 20yr Air Force veteran that spent 9 years as a mechanic and 11 years as a recruiter that aspires to become a SOC, Pentester, Ethical Hacker or Digital Forensics Investigator.
+- I'm a 20yr Air Force veteran that spent 9 years as a mechanic and 11 years as a recruiter that aspires to become a Cybersecurity Anaylyst, Pentester, Ethical Hacker or Digital Forensics Investigator. Ultimate goal is to be a penetration tester
 
 <h2>🌱 I'm currently learning:</h2>
 
-- Google IT Support Certification (130hrs) - estimated completion 7 April 23
-- CompTIA A+ - Testing Spring 2023
-- Google IT Automation with Python Professional Certificate (116hrs) - Start 7 Apr with an estimated 30 April 23 completion
+- Google IT Automation with Python Professional Certificate (116hrs) - Started April 2023 with an estimated May 2023 completion
 - Currently in Security+ bootcamp with an estimated completion 2 July 2023
-- CompTIA Security+ - Testing summer 2023
 - Self-learning Kali Linux
+- Linux 101 via TCM-Security Academy
 - Active learning on Hack the Box & TryHackMe
 
 <h2> 🎒 Education:</h2>
 
+- Google IT Support Professional Certificate (130hrs) - Coursera Online - April 2023
 - Western Governors University: B.S. Cybersecurity and Information Assurance - May 2025
-- University of Maryland University Global Campus: B.S. Management Studies with minor Small Business Entreprenuership and Franchising
 - Community College of the Air Force - AAS Human Resources Management - 2014
 - Community College of the Air Force - AAS Aerospace Ground Equipment Technology - 2009
 
 <h2> 🔜 Coming Soon:</h2>
 
 - Active Directory Home Lab
-- AWS Certification(s)
+- CompTIA A+ via WGU - Summer 2023
+- CompTIA Network+ via WGU - Summer 2023
+- Security+ via WGU - Summer/Fall 2023
+- Additional cybersecurity certifications via WGU as courses progress
 
 <h2> 🤳 Connect with me:</h2>
 
