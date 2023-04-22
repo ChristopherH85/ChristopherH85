@@ -13,7 +13,7 @@
 
 <h2> 🎒 Education:</h2>
 
-- Google IT Support Professional Certificate (130hrs) - Coursera Online - April 2023
+- Coursera Online - Google IT Support Professional Certificate (130hrs) - April 2023
 - Western Governors University: B.S. Cybersecurity and Information Assurance - May 2025
 - Community College of the Air Force - AAS Human Resources Management - 2014
 - Community College of the Air Force - AAS Aerospace Ground Equipment Technology - 2009
