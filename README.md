@@ -1,7 +1,7 @@
 <h1>Hi, I'm Chris! <br/><a href="https://www.linkedin.com/in/chrisholt85/">Aspiring Cybersecurity Professional</a></h1>
 
 <h2>⚡ Fun fact:</h2>
-- I'm a 20yr Air Force veteran that spent 9 years as a mechanic and 11 years as a recruiter that aspires to become a Cybersecurity Anaylyst, Pentester, Ethical Hacker or Digital Forensics Investigator. Ultimate goal is to be a penetration tester.
+I'm a 20yr Air Force veteran that spent 9 years as a mechanic and 11 years as a recruiter that aspires to become a Cybersecurity Anaylyst, Pentester, Ethical Hacker or Digital Forensics Investigator. Ultimate goal is to be a penetration tester.
 
 <h2>🌱 I'm currently learning:</h2>
 
