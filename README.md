@@ -5,15 +5,14 @@
 
 <h2>🌱 I'm currently learning:</h2>
 
-- Google IT Automation with Python Professional Certificate (116hrs) - Started April 2023 with an estimated May 2023 completion
-- Currently in Security+ bootcamp with an estimated completion 2 July 2023
+- Google Cybersecurity Certificate via Coursera
 - Self-learning Kali Linux
 - Linux 101 via TCM-Security Academy
 - Active learning on Hack the Box & TryHackMe
 
 <h2> 🎒 Education:</h2>
 
-- Coursera Online - Google IT Support Professional Certificate (130hrs) - April 2023
+- Coursera Online - Google IT Support Professional Certificate (130hrs) - April 2023 https://coursera.org/share/57f959cc79a6d399107e58dd688e44cf
 - Western Governors University: B.S. Cybersecurity and Information Assurance - May 2025
 - Community College of the Air Force - AAS Human Resources Management - 2014
 - Community College of the Air Force - AAS Aerospace Ground Equipment Technology - 2009
